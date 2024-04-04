@@ -1,0 +1,4 @@
+tensorflow_hub
+tensorflow
+numpy
+pillow
